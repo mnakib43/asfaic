@@ -1,0 +1,255 @@
+common start*/
+body{  font-family: 'Lato', sans-serif;
+ font-size: 17px;
+ font-weight: 400;
+}
+
+
+
+/*common end*/
+/* header start */
+.t_01{ font-weight: 500; }
+.menu ul li a{ color: #8e8e8e !important; margin-left: 20px;}
+.menu ul li a:hover{ color: #000000 !important ;
+   }
+.nav_search{  }
+.btn_search{  }
+.btn_search i{  }
+.cde{min-width: 331px;
+    padding: 5px }
+.cde[data-bs-popper] {
+    top: 140%;
+    left: -287px;
+    padding:0 ;}
+
+/*header end*/
+/*slider start*/
+
+.slider{ background-image: url(../images/nipro-agency.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ /*min-height: 300px;*/
+ }
+ 
+ .btn_imp{ color: #333333;
+  background-color: #ffffff;
+  padding: 10px 35px;
+   }
+.tzb{ margin-bottom: 30px; }
+.c_1{ padding: 200px 0; }
+.ccn,.ccp{ align-items: flex-end;
+ color: #333333;}
+
+.ccn{left: 71px;}
+
+
+.ccp span{background-image: none !important;  }
+.ccn span{ background-image: none }
+
+/*slider end*/
+/*welcome start*/
+.gb{ margin-top: 40px;
+margin-bottom: 30px; } 
+.welcome{ margin: 100px 0; }
+/*welcome end*/
+/*service start*/
+.service{ margin-bottom: 50px; }
+
+.s_service {
+  text-align: center;
+  padding: 70px 10px 40px;
+  border: 1px solid #8e8e8e;
+  transition: 0.3s;
+}
+.s_icon {
+  width: 70px;
+  margin: 0 auto;
+  margin-top: -95px;
+  background-color: #fff;
+}
+.s_icon i {
+  font-size: 60px;
+  transition: 0.3s;
+}
+.s_service h2 {
+  margin-bottom: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  margin-top: 30px;
+  transition: 0.3s;
+}
+.s_service p {
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
+.service_span {
+  width: 50px;
+  height: 1px;
+  background-color: #8e8e8e;
+  display: block;
+  margin: 20px auto;
+  transition: 0.3s;
+}
+.s_service a {
+  text-transform: uppercase;
+  color: #8e8e8e;
+  font-family: ;
+  font-weight: 500;
+  font-size: 16px;
+  display: inline-block;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  padding: 10px 10px;
+}
+.s_service:hover {
+  cursor: pointer;
+  border: 1px solid #333333;
+}
+.s_service:hover .service_span {
+  background-color: #333333;
+}
+.s_service:hover h2,
+.s_service:hover p,
+.s_service:hover a,
+.s_service:hover .s_icon i {
+  color: #333333;}
+
+.mmxx{ margin-top: 20px;
+ margin-bottom:20px ; }
+
+/*service end*/
+/* about start */
+.about{ margin-top:100px ;
+ margin-bottom:100px ; }
+.bm{ border: 2px solid ;
+ margin-top: 20px;
+ padding: 10px; }
+/*about end*/
+/*recent section start */
+/*common css for the whole div*/
+.recent{ background-color: #f8f8f8;
+ margin-bottom: 50px;}
+
+
+/*first part start*/
+.tl{ margin-top: 70px;
+  } 
+.chb{ list-style: none;
+ }
+.gh{margin-top: 50px;}
+.ghm{margin: 50px 0;}
+.rm_photos{  margin-bottom: 30px;
+ background-color:#f8f8f8 ; }
+ .ty{ margin-bottom: 50px; }
+ .oo{ background-color:#f8f8f8;
+  min-height: 50px; }
+.jj{ margin-bottom: 25px; }  
+/*recent section end*/
+/*why section start*/
+.glhf{ margin-bottom: 50px; }
+.gmc{ margin-bottom:50px ; }
+.w-s {
+  margin-top: 45px;
+  border-bottom: 1px solid #8e8e8e;
+  /*transition: 0.4s;*/
+}
+.w-i {
+  text-align: center;}
+.w-p {
+ margin-top: 25px;
+ margin-bottom: 30px;}
+.w-i i{ font-size:50px ; }
+/*why section end*/
+/*who work start*/
+.w_work{ background-image: url(../images/bimage.jpg); 
+  background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ min-height: 640px;}
+.wh1{ font-weight: 400;
+ margin-top: 50px; }
+.W_b{   background-color: #ffffff;
+  padding: 20px}
+.nvm{ width: 100%; } 
+.tzs{ margin-bottom: 30px;
+  } 
+.hza{ margin-bottom: 50px; }
+/*who work end*/
+/*pricing start*/
+/* pricing start */
+.hzn{ margin-top: 20px; }
+.pricing {margin-bottom: 50px;
+}
+.p-inner-wrapper {
+  margin-top: 80px;
+  padding: 0 30px;
+  border: 1px solid #8e8e8e;
+  transition: 0.4s;
+}
+.p-inner-wrapper:hover {
+  cursor: pointer;
+  border: 1px solid #333333;
+}
+.p-inner-wrapper:hover .pbw .btn-banner {
+  border: 1px solid #333333;
+}
+.p-inner-wrapper p {
+}
+.p-inner-wrapper p span {
+  font-size: 36px;
+  color: #333333;
+}
+.p-inner-wrapper ul {
+  list-style: none;
+  padding-left: 0;
+}
+.p-inner-wrapper ul li {
+  margin-bottom: 20px;
+}
+.ptw {
+  margin-top: -10px;
+}
+.ptw h3 {
+
+  font-size: 18px;
+  color: #333333;
+  background-color: #fff;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.pbw .btn-banner {
+  border: 1px solid #000000;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  background-color: #f8f8f8;
+  padding: 12px 30px;
+  transition: 0.4s;
+}
+.pbw {
+}
+/* pricing end */
+/*buy nipro strt */
+.buy-nipro{  margin: 85px 0 85px;
+  padding: 30px 0;
+  background-color: #f8f8f8; }
+.b-n-btn-wrapper {
+  margin-top: 15px;
+}
+.b-n-btn-wrapper h1 {
+  color: #333333;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.b-n-btn-wrapper {
+  text-align: right;
+}
+.b-n-btn-wrapper .btn-banner {
+  border: 1px solid #8e8e8e;
+  background-color: #f8f8f8;
+  padding: 12px 30px;
+/*buy nipro end */
